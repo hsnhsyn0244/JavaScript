@@ -1,0 +1,12 @@
+/*
+(p)--> Tüm p etiketleri
+
+(div p) --> div içerisindeki üm p eiketleri
+
+(div,p) --> tüm dive ve p etiketleri
+
+(p+div) --> p etiketlerinden sonra gelen div etiketleri
+ */
+div,p{
+    color: red;
+}
